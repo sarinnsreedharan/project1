@@ -1,0 +1,9 @@
+
+	category = 'M'
+	minPrice = '200'
+	maxPrice = '1000'
+	productType = 'T-SHIRT,SHIRT'
+	productColor = None
+	productBrand = 'MAX,ALLEN SOLLY'
+	productSize = '4'
+	productParticularType = 'NONE'
